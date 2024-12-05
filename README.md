@@ -5,6 +5,7 @@ nft audits of metadata via the graph and grphql
 
 ## Tinybox Eth Subgraph
 
+img(https://github.com/biomassives/wb1_Audits/blob/main/tinybox_trait_distributions_20241205_123958.png?raw=true)
 
 
 Subgraph Schema Analysis:
